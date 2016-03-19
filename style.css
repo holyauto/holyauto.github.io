@@ -2,6 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
+@media screen{
 	td.menu{
 		font-family: Airborne Pilot,sans-serif;
 		font-size: 70px;
@@ -101,4 +102,5 @@ a.news:hover{
   border-top:none;
   border-right:none;
   border-bottom:none;
+}
 }
