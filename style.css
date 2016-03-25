@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
-.menu{
+  .menu{
     font-family: airbornepilot;
     font-size: 150%;
     color: #fff;
@@ -27,12 +27,12 @@
 		font-size: 80%;
 	}
 		.top14{
- 		font-family: "Airborne Pilot";
+ 		font-family: airbornepilot;
 		color: #c43157;
 		font-size:80%;
 	}
 .top14text{
-		font-family: "Airborne Pilot";
+		font-family:  airbornepilot;
 		color: black;
 		font-size:70%;
 	}
