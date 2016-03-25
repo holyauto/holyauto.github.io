@@ -2,18 +2,23 @@
 	margin: 0;
 	padding: 0;
 }
-
+.menu{
+    font-family: airbornepilot;
+    font-size: 150%;
+    color: #fff;
+    overflow: auto;
+}
   .menulogo{
     margin: 50%
     padding 30%
   }
 .mers{
-		font-family: "Airborne Pilot";
+		font-family: airbornepilot;
 		color:#fff;
 		font-size: 100%;
 	}
 .mers1{
-		font-family: "Airborne Pilot";
+		font-family: airbornepilot;;
 		color: black;
 		font-size: 100%;
 	}
