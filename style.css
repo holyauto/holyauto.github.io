@@ -2,12 +2,7 @@
 	margin: 0;
 	padding: 0;
 }
-	.menu{
-		font-family: "Airborne Pilot",sans-serif;
-		font-size: 150%;
-		color: #fff;
-		overflow: auto;
-  }
+
   .menulogo{
     margin: 50%
     padding 30%
