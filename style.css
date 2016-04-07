@@ -1,6 +1,6 @@
 *{
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
   .menu{
     font-family: airbornepilot;
@@ -13,42 +13,42 @@
     padding 30%
   }
 .mers{
-		font-family: airbornepilot;
-		color:#fff;
-		font-size: 100%;
-	}
+    font-family: airbornepilot;
+    color:#fff;
+    font-size: 100%;
+  }
 
 .mers1{
-		font-family: airbornepilot;;
-		color: black;
-		font-size: 100%;
-	}
+    font-family: airbornepilot;;
+    color: black;
+    font-size: 100%;
+  }
 .dalee{
-		color:black;
-		font-size: 80%;
-	}
-		.top14{
- 		font-family: airbornepilot;
-		color: #c43157;
-		font-size:80%;
-	}
+    color:black;
+    font-size: 80%;
+  }
+    .top14{
+    font-family: airbornepilot;
+    color: #c43157;
+    font-size:80%;
+  }
 .top14text{
-		font-family:  airbornepilot;
-		color: black;
-		font-size:70%;
-	}
+    font-family:  airbornepilot;
+    color: black;
+    font-size:70%;
+  }
   .news{
-  		position: relative;
-		color: #fff; 
-		text-decoration: none;
-	}
+      position: relative;
+    color: #fff; 
+    text-decoration: none;
+  }
 .foter{
   font-size: 60%
 }
 .news:hover{
-		color: #c8c340;
-		text-decoration: none;
-		border:none !important;
+    color: #c8c340;
+    text-decoration: none;
+    border:none !important;
 }
 
 .arrow-circle{
@@ -113,25 +113,61 @@ a.arrow-circle:hover:after{
   padding: 1%;
     
 }
-.d1{
-  background-color: #c8c240;
-}
-.d2{
-  padding-left: 1%;
-  padding-top: 1%;
-  padding-bottom: 1%;
-}
-.d3{
-  box-sizing: border-box;
-  text-align: center;
-}
-.zagnews{
+.newstop{
   font-family: airbornepilot;
     color: #c43157;
-    font-size:80%;
+    font-size: 100%;
 }
-.textnews{
+.newstext{
     font-family:  airbornepilot;
     color: black;
-    font-size:70%;
+    font-size:90%;
+
 }
+#tab-1{
+  border-bottom: all;
+}
+.ra{
+  border: 1;
+  border-color: #be224b;
+  color: #fff;
+}
+.block{
+  margin: 1%;
+    display: inline-block;
+}
+.block1{
+  text-align: center;
+    margin: 1%;
+    display: inline-block;
+    background-color: #fff;
+    width: 500px;
+    height: 500px;
+}
+.block {
+    margin: 1.5%;
+    align-items: center;
+    display: inline-block;
+    position:relative;
+ 
+}
+.block span {
+    display:inline-block;
+    position:absolute;
+    top:30px;   
+    left:0px;
+     
+    color:#FFF;
+    font-family:airbornepilot;
+    font-size:20px; 
+
+    background-color:rgba(0,0,0,.4);
+    padding: 10px 30px;
+    margin-top: 326.5px;
+}
+.gim {
+ overflow:hidden;
+ width: 400px;
+ height: 400px;
+ } 
+ 
