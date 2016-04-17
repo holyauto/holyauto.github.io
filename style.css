@@ -115,13 +115,13 @@ a.arrow-circle:hover:after{
 }
 .newstop{
   font-family: airbornepilot;
-    color: #c43157;
-    font-size: 100%;
+    color: #fff;
+    font-size: 20px;
 }
 .newstext{
     font-family:  airbornepilot;
     color: black;
-    font-size:90%;
+    font-size: 15px;
 
 }
 #tab-1{
@@ -136,17 +136,9 @@ a.arrow-circle:hover:after{
   margin: 1%;
     display: inline-block;
 }
-.block1{
-  text-align: center;
-    margin: 1%;
-    display: inline-block;
-    background-color: #fff;
-    width: 500px;
-    height: 500px;
-}
 .block {
-    margin: 1.5%;
-    align-items: center;
+    margin: 1%;
+    align-items: all;
     display: inline-block;
     position:relative;
  
@@ -170,4 +162,8 @@ a.arrow-circle:hover:after{
  width: 400px;
  height: 400px;
  } 
- 
+ hr {
+padding-bottom: 1px;
+background-color: #fff;
+border-bottom:1px solid #F4F4F4;
+}
