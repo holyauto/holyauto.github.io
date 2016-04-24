@@ -132,10 +132,7 @@ a.arrow-circle:hover:after{
   border-color: #be224b;
   color: #fff;
 }
-.block{
-  margin: 1%;
-    display: inline-block;
-}
+
 .block {
     margin: 1%;
     align-items: all;
@@ -147,22 +144,23 @@ a.arrow-circle:hover:after{
     display:inline-block;
     position:absolute;
     top:30px;   
-    left:0px;
+    left:26px;
      
     color:#FFF;
-    font-family:airbornepilot;
+    font-family: airbornepilot;
     font-size:20px; 
 
     background-color:rgba(0,0,0,.4);
     padding: 10px 30px;
     margin-top: 326.5px;
 }
-.gim {
- overflow:hidden;
+.gim{
+  padding-left: 26px;
  width: 400px;
  height: 400px;
  } 
- hr {
+
+ hr{
 padding-bottom: 1px;
 background-color: #fff;
 border-bottom:1px solid #F4F4F4;
